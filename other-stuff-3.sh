@@ -1,6 +1,6 @@
 #/bin/sh
 2
 What can we do" here?"
-< /co >><<><>>
+< /co >">""<"<">"""<">>"
 </code>
 "</pre>
